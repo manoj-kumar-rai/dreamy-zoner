@@ -1,10 +1,10 @@
-import Home from "./components/pages/Home"
+import Header from "./components/layout/Header"
 
 function App() {
 
   return (
     <>
-      <Home />    
+      <Header />
       <h1>Dreamy Zoner</h1>
     </>
   )
